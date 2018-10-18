@@ -1,0 +1,11 @@
+npm init
+-initialize package.json file
+npm install lite-server --save-dev
+-install node server
+
+npm install bootstrap@4.0.0 --save
+-insall bootstrap
+npm install jquery@3.3.1 popper.js@1.12.9 --save
+-install jquery and popper js
+
+
