@@ -65,3 +65,16 @@ body{
     position: absolute;
     bottom: 0px;
 }
+
+//Assignment 4
+.modal-header{
+    background: $background-dark;
+    color: floralwhite;
+
+    button{
+        color: floralwhite;
+    }
+}
+.modal-body{
+    background: $background-pale;
+}
